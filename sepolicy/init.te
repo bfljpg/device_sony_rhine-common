@@ -1,0 +1,5 @@
+#============= init ==============
+allow init wcnss_device:chr_file write;
+allow init wcnss_device:chr_file write;
+
+allow init sysfs_fm:file { open write };

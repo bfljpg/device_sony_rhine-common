@@ -1,0 +1,1 @@
+wifi.change_nv_owner        u:object_r:vendor_wifi_prop:s0

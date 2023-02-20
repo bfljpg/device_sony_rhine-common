@@ -1,0 +1,2 @@
+allow priv_app storage_stub_file:dir getattr;
+

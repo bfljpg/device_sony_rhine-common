@@ -1,0 +1,4 @@
+allow iddd self:netlink_socket { bind create write };
+allow iddd iddd_data_file:file { getattr open read };
+allow iddd self:netlink_socket { bind create write };
+

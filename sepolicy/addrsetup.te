@@ -1,0 +1,2 @@
+allow addrsetup sysfs:file { getattr open write };
+allow addrsetup sysfs_wlanmac:file { open write getattr };

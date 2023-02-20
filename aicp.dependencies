@@ -1,0 +1,17 @@
+[
+  {
+    "repository": "AICP/device_sony_msm8974-common",
+    "target_path": "device/sony/msm8974-common",
+    "branch": "p9.0"
+  },
+  {
+    "repository": "AICP/kernel_sony_msm8974",
+    "target_path": "kernel/sony/msm8974",
+    "branch": "p9.0"
+  },
+  {
+    "repository": "CarbonROM/android_external_sony_boringssl-compat",
+    "target_path": "external/sony/boringssl-compat",
+    "branch": "cr-7.0"
+  }
+]

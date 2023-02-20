@@ -1,0 +1,2 @@
+allow tad proc_stat:file { getattr open read };
+
